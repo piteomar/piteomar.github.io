@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://piteomar.github.io/sitemap.html.gz
+Sitemap: https://piteomar.github.io/app/sitemap.html.gz
+Sitemap: https://piteomar.github.io/assets/sitemap.html.gz
+Sitemap: https://piteomar.github.io/css/sitemap.html.gz
+Sitemap: https://piteomar.github.io/data/sitemap.html.gz
+Sitemap: https://piteomar.github.io/includes/sitemap.html.gz
+Sitemap: https://piteomar.github.io/item/sitemap.html.gz
+Sitemap: https://piteomar.github.io/src/sitemap.html.gz
